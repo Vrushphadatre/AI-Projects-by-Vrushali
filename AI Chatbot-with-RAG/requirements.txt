@@ -1,8 +1,0 @@
-streamlit
-langchain
-langchain-core
-langchain-community
-langchain-groq
-huggingface-hub
-pypdf
-transformers
